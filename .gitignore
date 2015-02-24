@@ -1,4 +1,11 @@
 *.pid
 *.pyc
 *.swp
+*~
+\#
+cache/
 output/
+bin/
+include/
+lib/
+pip-selfcheck.json
